@@ -1,1 +1,4 @@
 A Message Generator that spits out a random message to the user.
+
+Coded in vanilla JavaScript.
+
